@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+th {
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+}
+
+
+th:hover {
+    background-color: #0056b3;
+}
+
+table {
+    background: white;
+}
+
+button {
+    background-color: #28a745;
+    border: none;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+input {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 8px;
+ }
